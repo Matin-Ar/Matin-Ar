@@ -7,7 +7,7 @@
 <br>
 
 	
-## <picture><img src = "https://raw.githubusercontent.com/Matin-Ar/Matin-Ar/main/Images/aboutMe.gif" width = 50px></picture> **About me**
+## <img src = "https://raw.githubusercontent.com/Matin-Ar/Matin-Ar/main/Images/aboutMe.gif" width = 50px> **About me**
 
 <br>
 
