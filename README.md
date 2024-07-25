@@ -11,18 +11,7 @@
 
 <br>
 
-I am a dedicated Node.js developer with a robust foundation in computer science,
-currently pursuing a master's degree in artificial intelligence. Leveraging my strong
-educational background and hands-on experience, I specialize in Node.js developing,
-where I excel in developing efficient and scalable solutions.
-
-- 3+ years of experience in web development using Node.js
-- 1+ years of experience in real web development projects using Node.js
-- Experience with Express.js
-- REST API design and development experience
-- Knowledge of databases such as MongoDB and MSSQL
-- Knowledge of authentication and authorization mechanisms, such as JWT or … 
-
+I am a dedicated Master's student in Artificial Intelligence with a strong foundation in Computer Science from my Bachelor's degree. With three years of proficient experience in backend programming, I am currently working as an AI Engineer, ready to make impactful contributions in the dynamic field of Artificial Intelligence.
 
 <img src="https://raw.githubusercontent.com/Matin-Ar/Matin-Ar/main/Images/line.gif"><br><br>
 
@@ -32,28 +21,24 @@ where I excel in developing efficient and scalable solutions.
 <p align="center">
 
 - **💻 Languages I have used**:
-    
+
+    ![Python](https://raw.githubusercontent.com/Matin-Ar/Matin-Ar/main/Images/python.svg)
     ![Node.js](https://raw.githubusercontent.com/Matin-Ar/Matin-Ar/main/Images/nodejs.svg)
     ![JavaScript](https://raw.githubusercontent.com/Matin-Ar/Matin-Ar/main/Images/javaScript.svg)
     ![C++](https://raw.githubusercontent.com/Matin-Ar/Matin-Ar/main/Images/cpp.svg)
-    ![Python](https://raw.githubusercontent.com/Matin-Ar/Matin-Ar/main/Images/python.svg)
 
     
-- Expert:
+- Artificial intelligence:
   <br>
-  Node.js | Express.js | JavaScript | Databases (SQL & NoSQL)
+  Machine Learning | Deep Learning | Computer Vision | Artificial Neural Networks | Data Mining | Python | MATLAB 
 
-- Skillfull:
+- Backend Programming:
   <br>
-  Machine Learning | Deep Learning | Computer Vision | Python | c++
+  Node.js | JavaScript | Express.js | Databases (SQL & NoSQL)
 
-- Intermediate:
+- Others:
   <br>
-  Linux | Cyber Security
-
-- Beginner:
-  <br>
-  Unity | c#
+  Unity | c# | C++ | Linux | Cyber Security 
 
 
 
