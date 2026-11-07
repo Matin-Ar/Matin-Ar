@@ -11,7 +11,11 @@
 
 <br>
 
-I am a dedicated Master's student in Artificial Intelligence with a strong foundation in Computer Science from my Bachelor's degree. With three years of proficient experience in backend programming, I am currently working as an AI Engineer, ready to make impactful contributions in the dynamic field of Artificial Intelligence.
+AI Engineer with an M.Sc. in Artificial Intelligence and a Computer Science background. I work across applied AI, computer vision, LLMs, RAG, and backend engineering, building practical AI-powered applications and scalable software systems.
+
+With hands-on experience in Python, JavaScript, and Node.js, I'm interested in turning AI research and modern machine learning techniques into reliable, real-world solutions.
+
+Currently exploring applied LLM systems, intelligent agents, and AI-driven software development.
 
 <img src="https://raw.githubusercontent.com/Matin-Ar/Matin-Ar/main/Images/line.gif"><br><br>
 
